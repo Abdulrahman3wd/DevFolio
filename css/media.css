@@ -1,0 +1,21 @@
+@media screen and (max-width: 1024px) {
+    .home-Section {
+        background-attachment: scroll;
+        
+
+    }
+    .w-title  {
+        font-size: 1.4rem;
+    }
+    .paralax-mf {
+        background-attachment:scroll;
+    }
+ 
+    
+}
+@media screen and (min-width: 768px) {
+ 
+    .testmontiol-box .description {
+       padding: 0 5rem;
+    }
+}
